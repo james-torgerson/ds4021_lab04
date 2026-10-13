@@ -1,2 +1,4 @@
 # ds4021_lab04
-repo for working on 4th lab 
+Group 4 Repository for working on lab 04
+
+**Group Members:** Kaitlin Luu, Natalie Schweickert, James Torgerson
